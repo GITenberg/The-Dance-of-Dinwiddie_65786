@@ -1,11 +1,16 @@
 _repo: The-Dance-of-Dinwiddie_65786
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65786-h/images/cover.jpg
 creator:
   author:
     agent_name: Moreton, Marshall
     gutenberg_agent_id: '53500'
     url: http://www.gutenberg.org/2009/agents/53500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65786#The-Dance-of-Dinwiddie
 gutenberg_issued: '2021-07-07'
 gutenberg_type: Text
 identifiers:
